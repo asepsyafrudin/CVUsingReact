@@ -1,0 +1,9 @@
+.subProfile {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 35px
+}
+
+.subProfile > h3 {
+    line-height: 25px;
+}

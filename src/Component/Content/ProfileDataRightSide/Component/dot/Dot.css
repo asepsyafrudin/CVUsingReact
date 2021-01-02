@@ -1,0 +1,15 @@
+
+.dot {
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    margin: 2px;
+  }
+
+  .blue {
+    background-color: rgb(15, 16, 26) !important; 
+    
+  }

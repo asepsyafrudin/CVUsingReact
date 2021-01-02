@@ -1,0 +1,19 @@
+.resumeTitle {
+    text-align: center; 
+    padding-left: 70px ;
+    position: relative;
+   
+ }
+ 
+ .resume {
+     font-size: 15px;
+     width: 50%;
+     background-color: rgb(3, 3, 77);
+     color: white;
+     margin: auto;
+     height: 30px;
+     line-height: 30px;
+ }
+ .row {
+    padding-left: 30px;
+}

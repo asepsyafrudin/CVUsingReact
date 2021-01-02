@@ -1,0 +1,25 @@
+.background {
+    height: 250px;
+    background-color: rgb(3, 3, 77);
+    position: relative;
+    z-index: -5;
+}
+
+.nameCover {
+    color: white;
+    margin-top: 90px;
+    padding-left: 20px;
+}
+
+.nameCover > h1 {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.jobTitle {
+    border-bottom-style: outset;
+    border-color: blueviolet;
+    padding-top: 15px;
+}
+

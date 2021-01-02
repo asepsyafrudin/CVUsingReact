@@ -1,0 +1,14 @@
+.contentDetailProfile {
+    background-color: rgb(181, 161, 207);
+    padding-right: 10px;
+}
+
+.titleDetailProfile {
+    border-bottom-style: dashed;
+    margin-top: 40px;
+    padding-left: 20px;
+}
+
+.margin {
+    margin-top: 15px;
+}
